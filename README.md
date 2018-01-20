@@ -145,5 +145,5 @@ _ = plt.xlabel('Relative importance'), plt.title('Top Ten Important Variables')
 ```
 8、最终结果<br>
 -------
-![image](https://github.com/fanzhihai/Financial-fraud-prediction/raw/master/important_columns.png)  
+![](https://github.com/fanzhihai/Financial-fraud-prediction/raw/master/result1.PNG)  
 
